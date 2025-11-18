@@ -222,6 +222,3 @@ GitHub: https://github.com/yusuf-328
 
 ---
 
-If you want, I can also add badges, GIF demos of live updates, and a table of contents to make this README even more GitHub-ready and visually professional.
-
-Do you want me to do that next?
