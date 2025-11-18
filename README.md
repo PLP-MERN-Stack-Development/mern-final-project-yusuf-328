@@ -66,7 +66,7 @@ Clear navigation with intuitive links between pages: Home, Report Hazard, Map Vi
 
 
 ---
-![HOMEPAGE] (HOME.png)
+![HOME PAGE] (HOME.png)
 
 
 
