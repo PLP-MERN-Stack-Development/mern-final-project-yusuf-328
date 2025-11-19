@@ -12,6 +12,29 @@ This project aligns with Sustainable Development Goal (SDG) 11 – Sustainable C
 
 ---
 
+## Live Demo
+
+- - *Backend API (JSON response)*: Use https://road-hazard-report.onrender.com/api/hazards in Postman or your app.
+- *Frontend (User Interface)*: [https://road-hazard-report-hzu77x8ae-yusufeduns-projects.vercel.app/](https://road-hazard-report-hzu77x8ae-yusufeduns-projects.vercel.app/)
+
+## Features
+
+- Submit new road hazard reports with type, location, description, and severity.
+- Visualize hazards on an interactive map.
+- Real-time updates via Socket.IO.
+- Connected to MongoDB Atlas for persistent storage.
+
+## Technologies Used
+
+- *Frontend*: React, React-Leaflet, Socket.IO Client
+- *Backend*: Node.js, Express, Socket.IO Server
+- *Database*: MongoDB Atlas
+
+
+
+
+
+
 🌟 Features
 
 1. Report Hazards Effortlessly
