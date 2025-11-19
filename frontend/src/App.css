@@ -1,0 +1,28 @@
+.app {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: #222;
+  min-height: 100vh;
+  background: #f7f9fc;
+}
+
+.main {
+  padding: 24px;
+}
+
+/* Navbar styling */
+.navbar {
+  padding: 10px 20px;
+  background-color: #eee;
+  display: flex;
+  gap: 15px; /* space between links */
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
