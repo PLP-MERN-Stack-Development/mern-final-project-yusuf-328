@@ -11,6 +11,9 @@ This project aligns with Sustainable Development Goal (SDG) 11 – Sustainable C
 
 
 ---
+## Slide link
+https://www.canva.com/design/DAG5CLXM1SA/lun7zeS10gTajZ2TIC7hXA/view?utm_content=DAG5CLXM1SA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h83d541cba3#3
+
 
 ## Live Demo
 
